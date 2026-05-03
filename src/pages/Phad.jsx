@@ -80,7 +80,7 @@ const phadDots = [
     id: 'scene-8',
     label: 'Roopnath',
     top: '60%',
-    left: '55%',
+    left: '58.5%',
     video: '/roopnathVid.mp4',
     audio: '/Roopnath.mp3',
     description: 'Roop (or Roop Nath, because of his affiliation with yogic practices), is Pabu’s nephew, the son of Pabus brother, Buro, and his wife, Gailovat. After a fierce battle between the Kichis and Pabus army, Roop is the only one left alive, hiding during his childhood to survive as the last of his family and lineage. Driven by a strong sense of duty and revenge, Roop dedicates himself to avenging his uncle Pabu and the entire family. His story is one of survival, honor, and the endurance of lineage, where the need to uphold family legacy intertwines with themes of justice and devotion.'
