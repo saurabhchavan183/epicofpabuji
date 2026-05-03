@@ -1,0 +1,19 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdf4ff" />
+      <stop offset="100%" stop-color="#efe9ff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" rx="30" />
+  <text x="600" y="120" text-anchor="middle" font-size="60" fill="#6b21a8" font-family="Inter, Arial, sans-serif">Phad Interactive Image</text>
+  <rect x="100" y="180" width="1000" height="520" rx="24" fill="#fff" stroke="#d8b4fe" stroke-width="4" />
+  <g fill="#8b5cf6" opacity="0.2">
+    <ellipse cx="300" cy="360" rx="180" ry="100" />
+    <ellipse cx="800" cy="330" rx="190" ry="120" />
+    <ellipse cx="500" cy="520" rx="220" ry="110" />
+  </g>
+  <path d="M160 520c60-40 140-80 240-90s210 20 300 70 200 40 300-10" fill="none" stroke="#7c3aed" stroke-width="10" stroke-linecap="round" />
+  <text x="190" y="430" font-size="26" fill="#4b088a" font-family="Inter, Arial, sans-serif">Phad painting area</text>
+  <text x="730" y="240" font-size="22" fill="#4b088a" font-family="Inter, Arial, sans-serif">Interactive hotspots</text>
+</svg>
